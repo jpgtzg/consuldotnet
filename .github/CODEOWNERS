@@ -1,0 +1,19 @@
+# Default owners for everything in the repo
+* @jgiannuzzi @marcin-krystianc @mfkl @adamreeve @naskio @pavlovic-ivan @ljubon @BnMcG @m4rs-mt
+
+# Website and documentation
+/docs/ @naskio @jgiannuzzi
+
+# Build and CI files
+/.github/ @jgiannuzzi @marcin-krystianc
+*.yml @jgiannuzzi @marcin-krystianc
+*.yaml @jgiannuzzi @marcin-krystianc
+
+# Core library code
+/Consul/ @jgiannuzzi @marcin-krystianc @mfkl @adamreeve
+
+# Tests
+/Consul.Test/ @jgiannuzzi @marcin-krystianc @mfkl @adamreeve
+
+# ASP.NET Core integration
+/Consul.AspNetCore/ @BnMcG @pavlovic-ivan @ljubon
